@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uguryesil08.github.io/sitemap.xml
